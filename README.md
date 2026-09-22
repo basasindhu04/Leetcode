@@ -84,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/basasindhu04/Leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/basasindhu04/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
