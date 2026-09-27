@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/basasindhu04/Leetcode/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/basasindhu04/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/basasindhu04/Leetcode/tree/master/0556-next-greater-element-iii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/basasindhu04/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/basasindhu04/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/basasindhu04/Leetcode/tree/master/0125-valid-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/basasindhu04/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/basasindhu04/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/basasindhu04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/basasindhu04/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/basasindhu04/Leetcode/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/basasindhu04/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/basasindhu04/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/basasindhu04/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/basasindhu04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
