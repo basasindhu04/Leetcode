@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/basasindhu04/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/basasindhu04/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/basasindhu04/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/basasindhu04/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/basasindhu04/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Greedy
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/basasindhu04/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
