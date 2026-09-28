@@ -155,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/basasindhu04/Leetcode/tree/master/1763-longest-nice-substring) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/basasindhu04/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
