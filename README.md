@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/basasindhu04/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/basasindhu04/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/basasindhu04/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/basasindhu04/Leetcode/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/basasindhu04/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/basasindhu04/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/basasindhu04/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/basasindhu04/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
