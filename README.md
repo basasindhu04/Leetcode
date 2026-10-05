@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/basasindhu04/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/basasindhu04/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/basasindhu04/Leetcode/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/basasindhu04/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/basasindhu04/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/basasindhu04/Leetcode/tree/master/0560-subarray-sum-equals-k) |
