@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/basasindhu04/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/basasindhu04/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/basasindhu04/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/basasindhu04/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/basasindhu04/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/basasindhu04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/basasindhu04/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/basasindhu04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/basasindhu04/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/basasindhu04/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Manacher
 |  |
 | ------- |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/basasindhu04/Leetcode/tree/master/0390-elimination-game) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
