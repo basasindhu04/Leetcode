@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/basasindhu04/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/basasindhu04/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/basasindhu04/Leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/basasindhu04/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/basasindhu04/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/basasindhu04/Leetcode/tree/master/0056-merge-intervals) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/basasindhu04/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/basasindhu04/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/basasindhu04/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
