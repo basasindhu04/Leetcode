@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/basasindhu04/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/basasindhu04/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/basasindhu04/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/basasindhu04/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/basasindhu04/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/basasindhu04/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/basasindhu04/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/basasindhu04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/basasindhu04/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/basasindhu04/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/basasindhu04/Leetcode/tree/master/0056-merge-intervals) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/basasindhu04/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/basasindhu04/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/basasindhu04/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
