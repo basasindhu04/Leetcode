@@ -1,9 +1,9 @@
 class Solution {
-
+    //POTD Ctrl + c -> Ctrl + v
     public int sortableIntegers(int[] nums) {
         int n = nums.length;
         List<Integer> fac = new ArrayList<>();
-
+    
         for (int x = 1; x * x <= n; x++) {
             if (n % x == 0) {
                 fac.add(x);
