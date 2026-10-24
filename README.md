@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/basasindhu04/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/basasindhu04/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/basasindhu04/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2409-count-days-spent-together](https://github.com/basasindhu04/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/basasindhu04/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/basasindhu04/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Pigeonhole Principle
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/basasindhu04/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/basasindhu04/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/basasindhu04/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/basasindhu04/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Greedy
 |  |
 | ------- |
