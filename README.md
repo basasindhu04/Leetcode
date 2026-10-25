@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/basasindhu04/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/basasindhu04/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/basasindhu04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/basasindhu04/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/basasindhu04/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/basasindhu04/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/basasindhu04/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/basasindhu04/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/basasindhu04/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/basasindhu04/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/basasindhu04/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/basasindhu04/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/basasindhu04/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/basasindhu04/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
