@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/basasindhu04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/basasindhu04/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/basasindhu04/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/basasindhu04/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/basasindhu04/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/basasindhu04/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/basasindhu04/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/basasindhu04/Leetcode/tree/master/0258-add-digits) |
 | [0390-elimination-game](https://github.com/basasindhu04/Leetcode/tree/master/0390-elimination-game) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/basasindhu04/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/basasindhu04/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/basasindhu04/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/basasindhu04/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/basasindhu04/Leetcode/tree/master/0056-merge-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/basasindhu04/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/basasindhu04/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/basasindhu04/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/basasindhu04/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
